@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Back-end Web Development at Zuri
+I'm currently learning Back-end Web Development at TechHut
 
 
 ## 🌐 Socials:
