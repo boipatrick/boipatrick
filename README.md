@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Back-end Web Development at TechHut
+I'm currently learning Backend Engineering at TechHut
 
 
 ## 🌐 Socials:
