@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm currently learning Backend at TechHut
+Also self-learning Solidity and other Web-3 concepts
 
 
 ## 🌐 Socials:
